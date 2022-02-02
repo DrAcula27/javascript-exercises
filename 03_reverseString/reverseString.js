@@ -18,7 +18,7 @@ const reverseString = function(string) {
     //return the result
     return joinArray;
 
-2. using loops:
+2. using loops: (does not use any built-in functions)
 
     //create an empty string to hold the new string
     let newString = "";
